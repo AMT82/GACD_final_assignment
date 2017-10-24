@@ -2,6 +2,9 @@
 Final assignment for the course "Getting and Cleaning Data" by John Hopkins University
 Andrew M Telford
 
+DATA SOURCE: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+DATA INFO: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
 NOTE: script 1, used to import data, returns variables with the relevant data programmatically.
 All of the following functions use these variable names as default if no other value is
 specified, giving the option of making the analysis fully automated.
