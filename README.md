@@ -8,7 +8,7 @@ DATA INFO: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Usi
 
 ## Master script
 run_analysis.R
-This script uses the scripts below to perform the complete data analysis.
+This script uses the scripts below to perform the complete data analysis. It requires all the slave scripts to be in the folder "scripts" in the working directory, and the data folder "UCI HAR Dataset" to be in the working directory.
 Example: run_analysis("C:/.....","C:/.....")
 
 ## Slave scripts used in run_analysis.R, in order of use
