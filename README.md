@@ -1,5 +1,5 @@
 # GACD_final_assignment
-Final assignment for the course "Getting and Cleaning Data" by John Hopkins University
+Final assignment for the course "Getting and Cleaning Data", by John Hopkins University,
 Andrew M Telford
 
 DATA SOURCE: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
